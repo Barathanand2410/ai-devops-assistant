@@ -232,6 +232,7 @@ Add CI/CD for self-deployment
 ## Home Page
 
 ![Home Page](assets/homepage.png)
+<img width="1919" height="847" alt="homepage" src="https://github.com/user-attachments/assets/0ba7c399-fb49-443c-beee-d0cf5802ad36" />
 
 Author
 Barathanand R
