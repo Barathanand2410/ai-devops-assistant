@@ -236,5 +236,6 @@ License
 This project is for learning, internal development, and deployment practice.
 
 Home Page
-<img width="1919" height="847" alt="ai-devops-assistant" src="https://github.com/user-attachments/assets/0be2a929-27b7-4e7a-b6d1-0633cf16727c" />
+
+<img width="1919" height="847" alt="ai-devops-assistant" src="https://github.com/user-attachments/assets/ee5627cc-2cbc-44b5-b13c-325b2fc27faf" />
 
