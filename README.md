@@ -235,5 +235,6 @@ License
 
 This project is for learning, internal development, and deployment practice.
 
+Home Page
+<img width="1919" height="847" alt="ai-devops-assistant" src="https://github.com/user-attachments/assets/0be2a929-27b7-4e7a-b6d1-0633cf16727c" />
 
-If you want, I can also give you a more polished **professional GitHub README version** with badges, screenshots, architecture diagram section, and deployment status section.
