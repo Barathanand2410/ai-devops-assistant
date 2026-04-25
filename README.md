@@ -228,6 +228,11 @@ Restrict CORS to frontend URL only
 Add robust production error handling
 Add role-based access
 Add CI/CD for self-deployment
+
+## Home Page
+
+![Home Page](assets/homepage.png)
+
 Author
 Barathanand R
 
@@ -235,6 +240,3 @@ License
 
 This project is for learning, internal development, and deployment practice.
 
-##Home Page
-
-<img width="1919" height="847" alt="homepage" src="https://github.com/user-attachments/assets/997317d7-0823-4b37-87bc-0d814a3b58c4" />
